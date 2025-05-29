@@ -1,0 +1,10 @@
+Date: 10/5/2025
+Time: 10:36
+Phone Number: +1234567890
+Message: hello from python!!
+--------------------
+Date: 10/5/2025
+Time: 10:38
+Phone Number: +918320656936
+Message: hello from python!!
+--------------------
